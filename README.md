@@ -10,7 +10,7 @@ The application is developed using **ASP.NET Core Blazor**, managed with **Git**
 
 ## 🛠️ Tools Used
 
-* **Visual Studio Code** – Development IDE
+* **Microsoft Visual Studio Code** – Development IDE
 * **Blazor Web App (ASP.NET Core)** – Web application framework
 * **Git** – Version control
 * **Azure DevOps** – Repository and CI/CD pipeline management
